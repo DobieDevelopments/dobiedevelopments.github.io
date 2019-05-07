@@ -16,7 +16,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          dobiedevelopments.github.io
+          <a href="https://github.com/DobieDevelopments/">
+            check out my GitHub! (:
+          </a>
         </a>
       </header>
     </div>
